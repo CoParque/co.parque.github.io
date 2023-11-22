@@ -8,7 +8,7 @@
     window.__env.videoUrlStream = '//www.dailymotion.com/embed/video/';
     window.__env.nombreCongregacion = 'Co. Parque';
     window.__env.congregacion = 'Parque';
-    window.__env.programaIdSheets = '1BzuB98iqVhP6h2hr6RJELaRFOc9O2A5bj74mvQyapSQ';
+    window.__env.programaIdSheets = '1t3OWHZa2LFsFkxYE7kkC5LIbO5XCP7v_FvfmTI6pdNw';
     window.__env.programaUrl1 = '//docs.google.com/spreadsheets/d/';
     window.__env.programaUrl2 = '/pubhtml'; //?widget=true&headers=false&chrome=false';
     window.__env.programaUrlDescargaPdf = '/export?format=pdf';
@@ -43,7 +43,7 @@
     window.__env.mnuCampana = false;
     window.__env.mnuGrupos = false;
     window.__env.mnuInforme = false;
-    window.__env.mnuReuniones = false;
+    window.__env.mnuReuniones = true;
     window.__env.mnuPrograma = true;
     window.__env.mnuEmision = false;
     window.__env.emisionAsistencia = false;
