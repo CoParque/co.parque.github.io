@@ -480,7 +480,7 @@ app.controller('territorios', ['$scope', '__env', function($scope, __env) {
 }]);
 
 app.controller('grupos', ['$scope', '__env', function($scope, __env) {
-
+    $scope.urlGrupos = $sce.trustAsResourceUrl(__env.gruposUrl);
 
     //    cartodb.createVis('$scope', 'https://abelbour.carto.com/api/v2/viz/508e2eb2-a2bf-11e6-9874-0ecd1babdde5/viz.json', {
     //        shareable: true,
