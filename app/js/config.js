@@ -41,7 +41,7 @@
     window.__env.mnuPublica = true;
     window.__env.mnuTerritorios = false;
     window.__env.mnuCampana = false;
-    window.__env.mnuGrupos = false;
+    window.__env.mnuGrupos = true;
     window.__env.mnuInforme = false;
     window.__env.mnuReuniones = true;
     window.__env.mnuPrograma = true;
