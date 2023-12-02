@@ -1,14 +1,14 @@
 {
     "dir": "ltr",
     "lang": "es",
-    "name": "Co. Churruarín",
+    "name": "Co. Parque",
     "scope": "/",
     "display": "standalone",
-    "start_url": "https://churruar.in/",
-    "short_name": "Churruarín",
-    "background_color": "#031F3B",
-    "theme_color": "#031F3B",
-    "description": "Tablero de anuncios de la Co. Churruarín",
+    "start_url": "https://coparque.github.io/",
+    "short_name": "Parque",
+    "background_color": "#0AA",
+    "theme_color": "#0AA",
+    "description": "Tablero de anuncios de la Co. Parque",
     "icons": [
         {
             "src": "app/img/favicon.ico",
